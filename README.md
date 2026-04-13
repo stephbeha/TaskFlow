@@ -4,7 +4,7 @@ TaskFlow is a modern task management application powered by local AI (SmolLM2). 
 
 ## Features
 
-✨ **Core Features:**
+**Core Features:**
 - Kanban board with 3 statuses (Backlog, In Progress, Completed)
 - Intelligent task complexity estimation (AI-powered)
 - Priority management (Normal, Critical)
@@ -12,7 +12,7 @@ TaskFlow is a modern task management application powered by local AI (SmolLM2). 
 - Real-time drag & drop
 - Local AI suggestions for task descriptions
 
-🚀 **Tech Stack:**
+**Tech Stack:**
 - Backend: Flask + Local LLM (SmolLM2-135M-Instruct)
 - Frontend: React 19 + Vite + Tailwind CSS
 - Database: JSON (local)
