@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to TaskFlow",
+    "description": "- Get started with TaskFlow\n- Organize your tasks efficiently",
+    "status": "backlog",
+    "priority": "critical",
+    "points": 2
+  },
+  {
+    "id": 2,
+    "title": "test",
+    "description": "",
+    "status": "in_progress",
+    "priority": "normal",
+    "points": 1
+  }
+]
