@@ -24,7 +24,7 @@
 
 ---
 
-## 📋 Inventory de Composants
+## Inventory de Composants
 
 ### ✅ Backend Python (Complété)
 - [x] Flask 3.1.3 → API Web
