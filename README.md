@@ -87,5 +87,4 @@ TaskFlow/
 - `POST /api/ai/suggest` - Get AI suggestions
 
 ## License
-
-MIT
+STEPHBEHA
